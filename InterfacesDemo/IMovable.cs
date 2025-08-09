@@ -1,1 +1,5 @@
+interface IMovable
+{
+    void Move();
+}
 
